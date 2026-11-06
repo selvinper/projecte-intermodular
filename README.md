@@ -1,4 +1,4 @@
-# projecte-intermodular
+# AulaNet
 
 <!DOCTYPE html>
 <html lang="es">
