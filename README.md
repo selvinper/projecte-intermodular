@@ -37,11 +37,11 @@
 
 <body>
 
-    <h1>¡Bienvenido a mi web!</h1>
+    <h1>¡Esta es la web oficial de AulaNet!</h1>
 
-    <p>Esta es mi primera página creada con HTML.</p>
 
-    <button onclick="alert('¡Hola!')">
+
+    <button onclick="alert('¡aceptar la condiciones de uso!')">
         Haz clic aquí
     </button>
 
